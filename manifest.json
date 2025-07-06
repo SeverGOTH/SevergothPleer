@@ -1,0 +1,15 @@
+{
+  "name": "SeverGOTH",
+  "short_name": "SeverGOTH",
+  "start_url": "/pleer.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff0000",
+  "icons": [
+    {
+      "src": "/1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
